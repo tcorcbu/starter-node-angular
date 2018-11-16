@@ -1,10 +1,115 @@
-angular.module('MainCtrl', []).controller('MainController', function($scope, $http, $q) {	
+angular.module('MainCtrl', []).controller('MainController', function($scope, $http, $q) {
+
+
+
+
+
+	//Active or Pending Aquaculture
+
+	function getMaineData(){
+
+		var tom = document.getElementById('tom');
+		var t_childs = tom.children;
+		var ret_arr = [];
+
+		//t_childs.length
+
+		for(var i = 0; i < 89; i++){
+
+			var table = t_childs[i].children[0].children[0].children;
+
+			var data_obj = {
+				'leaseholder': table[6].innerText,
+				'contact': table[7].innerText,
+				'location': table[8].innerText,
+				'waterbody': table[9].innerText,
+				'city': table[10].innerText,
+				'county': table[11].innerText
+			};
+
+			ret_arr.push(data_obj);
+
+		}
+
+		console.log(JSON.stringify(ret_arr));
+
+	}
+
+
+
+
 	
 	function htmlToElement(html) {
 		var doc = document.implementation.createHTMLDocument("example");
 		doc.documentElement.innerHTML = html;
 		return doc;
 	}
+
+	$scope.business_info = {};
+
+	$scope.getBusinessInfo = function (name){
+
+		var encoded_name = encodeURIComponent(name);
+
+		var url = "https://sccefile.scc.virginia.gov/Find/AjaxBusiness?searchTerm=" + encoded_name + "&searchPattern=C&sEcho=1&iColumns=5&sColumns=&iDisplayStart=0&iDisplayLength=25&mDataProp_0=0&mDataProp_1=1&mDataProp_2=2&mDataProp_3=3&mDataProp_4=4&iSortCol_0=0&sSortDir_0=asc&iSortingCols=1&bSortable_0=true&bSortable_1=true&bSortable_2=true&bSortable_3=true&bSortable_4=true&undefined=undefined&undefined=undefined";
+		
+		return $http.get(url).then(function(response) {
+			
+			console.log("business info", response.data);
+
+			var data = response.data;
+
+			if(data.iTotalRecords == 1){
+
+				// send request to get details on business
+				var endpoint = data.aaData[0][1].match(/'([^']+)'/)[1];;
+				var detail_url = "https://sccefile.scc.virginia.gov" + endpoint;
+
+				return $http.get(detail_url).then(function(res) {
+
+					var doc = htmlToElement(res.data);
+
+					var fieldsets = doc.getElementsByTagName('fieldset');
+
+					// Get Address
+
+					var child_arr = fieldsets[1].children;
+
+					var address_str = "";
+
+					for(var i = 1; i < child_arr.length; i++){
+						if(child_arr[i].innerText.length > 0){
+							address_str += child_arr[i].innerText.replace(/(\r\n\t|\n|\r\t)/gm," ") + " ";
+						}
+					}
+
+					// Get Contact Person
+					var contact_person = fieldsets[2].children[1].innerText;
+
+					var temp = {
+						'company_name': name,
+						'contact_person': contact_person,
+						'mailing_address': address_str.trim()
+					};
+
+					$scope.business_info = temp;
+
+					return temp;
+
+
+				});
+
+			}else if(data.iTotalRecords == 0){
+
+			}else{
+
+			}
+
+			return [];
+
+	    });
+		
+	};
 	
 	function getIssList(){
 		
@@ -71,9 +176,9 @@ angular.module('MainCtrl', []).controller('MainController', function($scope, $ht
 		var arr;
 		
 		if(all_data){
-			arr = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13']
+			arr = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13'];
 		}else{
-			arr = ['04']
+			arr = ['04'];
 		}
 		
 		var promises = [];
