@@ -1,0 +1,714 @@
+[
+  {
+    "leaseholder": "Cooke Aquaculture USA, Inc.",
+    "contact": "Jennifer Robinson",
+    "location": "Black Island",
+    "waterbody": "",
+    "city": "Frenchboro",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Peasley, Frank S.",
+    "contact": "Frank S. Peasley",
+    "location": "North of Bear Head",
+    "waterbody": "Bagaduce River",
+    "city": "Brooksville",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Leach, Jesse",
+    "contact": "Jesse Leach",
+    "location": "West of Bear Head",
+    "waterbody": "Bagaduce River",
+    "city": "Brooksville and Sedgwick",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Young, Evan",
+    "contact": "Evan Young",
+    "location": "East of Hardwood Island",
+    "waterbody": "Blue Hill Bay",
+    "city": "Tremont",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Acadia Sea Farms, Inc.",
+    "contact": "Warren Pettegrow",
+    "location": "Goose Cove, Western Bay",
+    "waterbody": "Blue Hill Bay",
+    "city": "Trenton",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Tightrope Seafarms, LLC.",
+    "contact": "Evan Young",
+    "location": "Blue Hill Salt Pond",
+    "waterbody": "Blue Hill Bay",
+    "city": "Blue Hill",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Tightrope Seafarms, LLC.",
+    "contact": "Evan Young",
+    "location": "Blue Hill Salt Pond",
+    "waterbody": "Blue Hill Bay",
+    "city": "Blue Hill",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Tightrope Seafarms, LLC.",
+    "contact": "Evan Young",
+    "location": "Blue Hill Salt Pond",
+    "waterbody": "Blue Hill Bay",
+    "city": "Blue Hill",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Young, Evan",
+    "contact": "Evan Young",
+    "location": "East of Hardwood Island",
+    "waterbody": "Blue Hill Bay",
+    "city": "Tremont",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Acadia Sea Farms, Inc.",
+    "contact": "Warren Pettegrow",
+    "location": "Goose Cove, Western Bay",
+    "waterbody": "Blue Hill Bay",
+    "city": "Trenton",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Maine Cultured Mussels \/ Mussel Bound Farms",
+    "contact": "Erick Swanson",
+    "location": "East of Long Island",
+    "waterbody": "Blue Hill Bay",
+    "city": "Blue Hill",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Young, Evan",
+    "contact": "Evan Young",
+    "location": "East of Hardwood Island",
+    "waterbody": "Blue Hill Bay",
+    "city": "Tremont",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Young, Evan",
+    "contact": "Evan Young",
+    "location": "East of Hardwood Island",
+    "waterbody": "Blue Hill Bay",
+    "city": "Tremont",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Porada, Joseph",
+    "contact": "Joe Porada",
+    "location": "Goose Cove",
+    "waterbody": "Blue Hill Bay",
+    "city": "Trenton",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Porada, Joseph",
+    "contact": "Joe Porada",
+    "location": "Goose Cove",
+    "waterbody": "Blue Hill Bay",
+    "city": "Trenton",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Mussel Bound, Inc.",
+    "contact": "Erick Spencer Swanson",
+    "location": "East of Hardwood Island",
+    "waterbody": "Blue Hill Bay",
+    "city": "Tremont",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Western Bay Oyster Company, LLC.",
+    "contact": "Matthew Gerald",
+    "location": "South of Old House Cove",
+    "waterbody": "Blue Hill Bay",
+    "city": "Bar Harbor",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "George F. Faux, Inc.",
+    "contact": "George F. Faux",
+    "location": "Northeast of Glidden Point",
+    "waterbody": "Damariscotta River",
+    "city": "Newcastle",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Pemaquid Oyster Company Inc.",
+    "contact": "Christopher Davis",
+    "location": "West of Goose Ledges",
+    "waterbody": "Damariscotta River",
+    "city": "Newcastle",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Norumbega Oysters, Inc.",
+    "contact": "Eric Peters",
+    "location": "Southeast of Hog Island",
+    "waterbody": "Damariscotta River",
+    "city": "Damariscotta",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Glidden Point Oyster Company",
+    "contact": "Ryan McPherson",
+    "location": "South of Jacks Point",
+    "waterbody": "Damariscotta River",
+    "city": "Newcastle",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Damariscotta River Association",
+    "contact": "Sarah Gladu",
+    "location": "South of Blackstone Point",
+    "waterbody": "Damariscotta River",
+    "city": "Damariscotta",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Muscongus Bay Aquaculture, Inc.",
+    "contact": "Antonina Simmons",
+    "location": "North of Route 1 Bridge",
+    "waterbody": "Damariscotta River",
+    "city": "Damariscotta",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Peters, Eric",
+    "contact": "Eric Peters",
+    "location": "North of Hall Pt.",
+    "waterbody": "Damariscotta River",
+    "city": "Damariscotta",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Dodge Cove Marine Farm, LLC",
+    "contact": "Antonina Simmons",
+    "location": "South of Hog Island",
+    "waterbody": "Damariscotta River",
+    "city": "Damariscotta",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Glidden Point Oyster Company",
+    "contact": "Ryan McPherson",
+    "location": "West of Prentiss Island",
+    "waterbody": "Damariscotta River",
+    "city": "Bristol and S. Bristol",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Glidden Point Oyster Company",
+    "contact": "Ryan McPherson",
+    "location": "West of Prentiss Island",
+    "waterbody": "Damariscotta River",
+    "city": "Bristol and S. Bristol",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Dodge Cove Marine Farm, LLC",
+    "contact": "Antonina Simmons",
+    "location": "South of Hog Island",
+    "waterbody": "Damariscotta River",
+    "city": "Damariscotta",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Mook Sea Farms, Inc.",
+    "contact": "William Mook",
+    "location": "East of Perkins Point",
+    "waterbody": "Damariscotta River",
+    "city": "Newcastle",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Mook Sea Farms, Inc.",
+    "contact": "William Mook",
+    "location": "East of Little Point",
+    "waterbody": "Damariscotta River",
+    "city": "Newcastle",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Dickinson, Christopher",
+    "contact": "Christopher Dickinson",
+    "location": "",
+    "waterbody": "Damariscotta River",
+    "city": "Bristol and Damariscotta",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Mook Sea Farms, Inc.",
+    "contact": "William Mook",
+    "location": "East of Little Point",
+    "waterbody": "Damariscotta River",
+    "city": "Newcastle",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Pemaquid Oyster Company Inc.",
+    "contact": "Christopher Davis",
+    "location": "Goose Ledges",
+    "waterbody": "Damariscotta River",
+    "city": "Newcastle",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Mook Sea Farms, Inc.",
+    "contact": "William Mook",
+    "location": "East of Little Point",
+    "waterbody": "Damariscotta River",
+    "city": "Newcastle",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Mook Sea Farms, Inc.",
+    "contact": "William Mook",
+    "location": "East of Little Point",
+    "waterbody": "Damariscotta River",
+    "city": "Newcastle",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Pemaquid Oyster Company Inc.",
+    "contact": "Christopher Davis",
+    "location": "West of Goose Ledges",
+    "waterbody": "Damariscotta River",
+    "city": "Newcastle",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Muscongus Bay Aquaculture, Inc.",
+    "contact": "Antonina Simmons",
+    "location": "Hog Island",
+    "waterbody": "Damariscotta River",
+    "city": "Damariscotta",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Johns River Shellfish, LLC.",
+    "contact": "David Cheney",
+    "location": "Blackstone Narrows",
+    "waterbody": "Damariscotta River",
+    "city": "Damariscotta",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Glidden Point Oyster Company",
+    "contact": "Ryan McPherson",
+    "location": "South of Jack's Point",
+    "waterbody": "Damariscotta River",
+    "city": "Newcastle",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Norumbega Oysters, Inc.",
+    "contact": "Eric Peters",
+    "location": "Northeast of Perkins Point",
+    "waterbody": "Damariscotta River",
+    "city": "Newcastle",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Dodge Cove Marine Farm, LLC.",
+    "contact": "Antonina Simmons",
+    "location": "Southwest of Hog Island",
+    "waterbody": "Damariscotta River",
+    "city": "Damariscotta",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Glidden Point Oyster Company",
+    "contact": "Ryan McPherson",
+    "location": "West of Prentiss Island",
+    "waterbody": "Damariscotta River",
+    "city": "Bristol and S. Bristol",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Pemaquid Mussel Farms, LLC.\/Levesque, Tim",
+    "contact": "Peter Fischer",
+    "location": "East of Googins Ledge",
+    "waterbody": "Eastern Bay",
+    "city": "Bar Harbor",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Acadia Aqua Farms, LLC.",
+    "contact": "Theo and Fiona de Koning",
+    "location": "Mount Desert Narrows",
+    "waterbody": "Eastern Bay",
+    "city": "Lamoine",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Acadia Aqua Farms, LLC.",
+    "contact": "Theo and Fiona de Koning",
+    "location": "Waukeag Neck",
+    "waterbody": "Flanders Bay",
+    "city": "Sorrento",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Acadia Aqua Farms, LLC.",
+    "contact": "Theo and Fiona de Koning",
+    "location": "North of Bean Island",
+    "waterbody": "Frenchman Bay",
+    "city": "Sorrento",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "West, James",
+    "contact": "James West",
+    "location": "Preble Island",
+    "waterbody": "Frenchman Bay",
+    "city": "Sorrento",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Ocean Resources, Inc.",
+    "contact": "David Quimby",
+    "location": "",
+    "waterbody": "Jordan River",
+    "city": "Trenton \/ Lamoine",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Moosabec Mussels, Inc.",
+    "contact": "Ralph Smith",
+    "location": "Old Point",
+    "waterbody": "Jordan River",
+    "city": "Lamoine",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Up River Oyster Corporation",
+    "contact": "Barrett Lynde",
+    "location": "North of Bradford Point",
+    "waterbody": "Meduncook River",
+    "city": "Cushing",
+    "county": "Knox"
+  },
+  {
+    "leaseholder": "Acadia Aqua Farms, LLC.",
+    "contact": "Theo and Fiona de Koning",
+    "location": "Hadley Point",
+    "waterbody": "Mount Desert Narrows",
+    "city": "Bar Harbor",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "K2 Science LLC.",
+    "contact": "Ray Konisky",
+    "location": "Medomak River",
+    "waterbody": "Muscongus Bay",
+    "city": "Friendship",
+    "county": "Knox"
+  },
+  {
+    "leaseholder": "K2 Science LLC.",
+    "contact": "Ray Konisky",
+    "location": "Medomak River",
+    "waterbody": "Muscongus Bay",
+    "city": "Friendship",
+    "county": "Knox"
+  },
+  {
+    "leaseholder": "K2 Science LLC.",
+    "contact": "Ray Konisky",
+    "location": "Medomak River",
+    "waterbody": "Muscongus Bay",
+    "city": "Friendship",
+    "county": "Knox"
+  },
+  {
+    "leaseholder": "Acadia Aqua Farms, LLC.",
+    "contact": "Theo and Fiona de Koning",
+    "location": "Mud Cove, Stinson Neck",
+    "waterbody": "Penobscot Bay",
+    "city": "Deer Isle",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Acadia Aqua Farms, LLC.",
+    "contact": "Theo and Fiona de Koning",
+    "location": "Mud Cove, Stinson Neck",
+    "waterbody": "Penobscot Bay",
+    "city": "Deer Isle",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Pemaquid Mussel Farms, LLC.",
+    "contact": "Peter Fischer",
+    "location": "Deer Isle Thorofare",
+    "waterbody": "Penobscot Bay",
+    "city": "Stonington",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Campbell, Adam and Michelle",
+    "contact": "Adam Campbell",
+    "location": "Pulpit Harbor Mill Stream",
+    "waterbody": "Penobscot Bay",
+    "city": "North Haven",
+    "county": "Knox"
+  },
+  {
+    "leaseholder": "Islesboro Marine Enterprises",
+    "contact": "Shey Conover",
+    "location": "Northeast of Flat Island",
+    "waterbody": "Penobscot Bay",
+    "city": "Islesboro",
+    "county": "Waldo"
+  },
+  {
+    "leaseholder": "Brewer, Robert",
+    "contact": "Robert Brewer",
+    "location": "Southwest of Andrews Island",
+    "waterbody": "Penobscot Bay",
+    "city": "Stonington",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "DLW Enterprises, Inc.",
+    "contact": "Danny Weed",
+    "location": "Long Cove",
+    "waterbody": "Penobscot Bay",
+    "city": "Deer Isle",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Barrows, Abigail",
+    "contact": "Abigail Barrows",
+    "location": "Long Cove",
+    "waterbody": "Penobscot Bay",
+    "city": "Deer Isle",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Campbell, Adam and Michelle",
+    "contact": "Adam Campbell",
+    "location": "Pulpit Harbor Salt Pond",
+    "waterbody": "Penobscot Bay",
+    "city": "North Haven",
+    "county": "Knox"
+  },
+  {
+    "leaseholder": "Bayside Mussel Farm",
+    "contact": "Joe Larrabee",
+    "location": "Belfast Harbor",
+    "waterbody": "Penobscot Bay",
+    "city": "Northport",
+    "county": "Waldo"
+  },
+  {
+    "leaseholder": "Petit Manan Seafood",
+    "contact": "Charles Wallace",
+    "location": "Pinkham Stream",
+    "waterbody": "Pinkham Bay",
+    "city": "Steuben",
+    "county": "Washington"
+  },
+  {
+    "leaseholder": "Petit Manan Seafood",
+    "contact": "Charles Wallace",
+    "location": "Pinkham Stream",
+    "waterbody": "Pinkham Bay",
+    "city": "Steuben",
+    "county": "Washington"
+  },
+  {
+    "leaseholder": "Maine Oyster, Inc.",
+    "contact": "Eric Horne\/Valy Steverlynck",
+    "location": "East of Lehman Island",
+    "waterbody": "Sheepscot River",
+    "city": "Newcastle",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Maine Oyster, Inc.",
+    "contact": "Eric Horne\/Valy Steverlynck",
+    "location": "East of Lehman Island",
+    "waterbody": "Sheepscot River",
+    "city": "Newcastle",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Maine Oyster, Inc.",
+    "contact": "Eric Horne\/Valy Steverlynck",
+    "location": "East of Lehman Island",
+    "waterbody": "Sheepscot River",
+    "city": "Newcastle",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Maine Oyster, Inc.",
+    "contact": "Eric Horne\/Valy Steverlynck",
+    "location": "Lehman Island",
+    "waterbody": "Sheepscot River",
+    "city": "Newcastle",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Maine Oyster, Inc.",
+    "contact": "Eric Horne\/Valy Steverlynck",
+    "location": "Lehman Island",
+    "waterbody": "Sheepscot River",
+    "city": "Newcastle",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Maine Oyster, Inc.",
+    "contact": "Eric Horne\/Valy Steverlynck",
+    "location": "Southwest of Lehman Island",
+    "waterbody": "Sheepscot River",
+    "city": "Newcastle",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Maine Oyster, Inc.",
+    "contact": "Eric Horne\/Valy Steverlynck",
+    "location": "Between Cunningham and Lehman Island",
+    "waterbody": "Sheepscot River",
+    "city": "Newcastle",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Maine Oyster, Inc.",
+    "contact": "Eric Horne\/Valy Steverlynck",
+    "location": "East of Lehman Island",
+    "waterbody": "Sheepscot River",
+    "city": "Newcastle",
+    "county": "Lincoln"
+  },
+  {
+    "leaseholder": "Taunton Bay Oyster, LLC.",
+    "contact": "Michael Briggs",
+    "location": "Buckskin Island, Hog Bay",
+    "waterbody": "Taunton Bay",
+    "city": "Franklin",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Taunton Bay Oyster, LLC.",
+    "contact": "Michael Briggs",
+    "location": "Southwest of Buckskin Island",
+    "waterbody": "Taunton Bay",
+    "city": "Franklin",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Taunton Bay Oyster, LLC.",
+    "contact": "Michael Briggs",
+    "location": "Buckskin Island",
+    "waterbody": "Taunton Bay",
+    "city": "Franklin",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Taunton Bay Oyster Company, Inc.",
+    "contact": "Michael Briggs",
+    "location": "",
+    "waterbody": "Taunton Bay",
+    "city": "Hancock",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Bar Harbor Oyster Company, LLC.",
+    "contact": "Joanna Fogg and Jesse Walls",
+    "location": "East of Israel Point",
+    "waterbody": "Thomas Bay",
+    "city": "Bar Harbor",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Bar Harbor Oyster Company, LLC.",
+    "contact": "Joanna Fogg and Jesse Walls",
+    "location": "East of Israel Point",
+    "waterbody": "Thomas Bay",
+    "city": "Bar Harbor",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Cooke Aquaculture USA, Inc.",
+    "contact": "Jennifer Robinson",
+    "location": "Scrag Island, South of Harbor Island",
+    "waterbody": "Toothacker Bay",
+    "city": "Swans Island",
+    "county": "Hancock"
+  },
+  {
+    "leaseholder": "Weskeag River Shellfish Farms LLC.",
+    "contact": "Ralph Hamill",
+    "location": "",
+    "waterbody": "Weskeag River",
+    "city": "South Thomaston",
+    "county": "Knox"
+  },
+  {
+    "leaseholder": "Desaulniers, Paul and Jane",
+    "contact": "Paul Desaulniers",
+    "location": "",
+    "waterbody": "Weskeag River",
+    "city": "South Thomaston",
+    "county": "Knox"
+  },
+  {
+    "leaseholder": "Desaulniers, Paul and Jane",
+    "contact": "Paul Desaulniers",
+    "location": "",
+    "waterbody": "Weskeag River",
+    "city": "South Thomaston",
+    "county": "Knox"
+  },
+  {
+    "leaseholder": "Desaulniers, Paul and Jane",
+    "contact": "Paul Desaulniers",
+    "location": "",
+    "waterbody": "Weskeag River",
+    "city": "South Thomaston",
+    "county": "Knox"
+  },
+  {
+    "leaseholder": "Desaulniers, Paul and Jane",
+    "contact": "Paul Desaulniers",
+    "location": "",
+    "waterbody": "Weskeag River",
+    "city": "South Thomaston",
+    "county": "Knox"
+  },
+  {
+    "leaseholder": "Weskeag River Shellfish Farms LLC.",
+    "contact": "Ralph Hamill",
+    "location": "",
+    "waterbody": "Weskeag River",
+    "city": "South Thomaston",
+    "county": "Knox"
+  },
+  {
+    "leaseholder": "Desaulniers, Paul and Jane",
+    "contact": "Paul Desaulniers",
+    "location": "",
+    "waterbody": "Weskeag River",
+    "city": "South Thomaston",
+    "county": "Knox"
+  },
+  {
+    "leaseholder": "Cooke Aquaculture USA, Inc.",
+    "contact": "Jennifer Robinson",
+    "location": "Black Island",
+    "waterbody": "",
+    "city": "Frenchboro",
+    "county": "Hancock"
+  }
+]
