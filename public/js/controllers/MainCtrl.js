@@ -167,7 +167,7 @@ angular.module('MainCtrl', []).controller('MainController', function($scope, $ht
 		
 	}
 	
-	function multiple(all_data){
+	$scope.getVirginiaData = function(all_data){
 		
 		var arr;
 		
@@ -240,12 +240,7 @@ angular.module('MainCtrl', []).controller('MainController', function($scope, $ht
 		
 	}
 	
-	$scope.getLeaseData = function(){
-		//console.log("getLeaseData called");
-		//multiple(false);
-	};
-	
-	$scope.getData = function(){
+	$scope.getData = function(){ // example of getting data
 		
 		$http.get("/get-data").then(function(data) {
 
@@ -255,9 +250,9 @@ angular.module('MainCtrl', []).controller('MainController', function($scope, $ht
 
 	};
 	
-	$scope.postData = function(){
+	$scope.postData = function(){ // example of getting posting
 		
-		var obj = {name: 'tom'};
+		var obj = {name: 'name'};
 		
 		$http.post("/save-data", obj).then(function(data) {
 
